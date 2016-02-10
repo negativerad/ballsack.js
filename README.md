@@ -1,9 +1,9 @@
 # ballsack.js
 Include this lib in all your javascript projects.
-## usage
+## demo
 ```javascript
 try {
-    something
+    ajaxrequest=new ActiveXObject("Msxml2.XMLHTTP");
 } catch(e) {
      window.location.href = "http://stackoverflow.com/search?q=[js ]+"+e.message;
 }
